@@ -21,6 +21,5 @@ public class Exercise_19 {
             }
             System.out.println();
         }
-
     }
 }
