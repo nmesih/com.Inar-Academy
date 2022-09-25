@@ -4,27 +4,35 @@ import java.util.Scanner;
 
 public class IsPresentInNewString {
     public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter first String :");
+        String s1 = input.nextLine();
+        System.out.println("Enter second String :");
+        String s2 = input.nextLine();
 
-            Scanner input = new Scanner(System.in);
-            String s = input.nextLine();
-            String a = input.nextLine();
-            String result = "";
-            result = newString(s,a,result);
-            System.out.println(result);
+        s1 = removeCharacters(s1, s2);
+        System.out.println("S1 after removing = " + s1);
+    }
+
+    public static String removeCharacters(String s1, String s2) {
+        for (int i = 0; i < s2.length(); i++) {
+            s1 = removeOneCharacter(s1, s2.charAt(i));
         }
-    public static String newString(String s, String a, String result) {
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = 0; j < a.length(); j++) {
-                String c = "";
-                if (s.charAt(i) != a.charAt(j)){
-                    c += s.charAt(i);
-                    result = c;
-                }
+        return s1;
+    }
+
+    public static String removeOneCharacter(String s1, char ch) {
+        String result = "";
+        for (int i = 0; i < s1.length(); i++) {
+            //
+            if (s1.charAt(i) != ch) {
+                result += s1.charAt(i);
             }
         }
-
         return result;
     }
 }
+
+
 
 
