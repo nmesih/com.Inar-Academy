@@ -106,7 +106,8 @@ public class Listing_12_PrintCalender {
         return 0;
     }
 
-    private static boolean isLeapYear(int year) {
+    public static boolean isLeapYear(int year) {
+
         return year % 400 == 0 || (year % 4 == 0 && year % 100 != 0);
     }
 }
