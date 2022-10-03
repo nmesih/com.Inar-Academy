@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added checkpoint_11">
-      <change afterPath="$PROJECT_DIR$/src/Chapters/chapter_07/Listing_02_DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapters/chapter_07/Listing_03_TestPassArray.java" afterDir="false" />
+    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added listing 02 and 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664728188414</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added listing 02 and 03">
+      <created>1664785064956</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664785064956</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +130,7 @@
     <MESSAGE value="Added loops question" />
     <MESSAGE value="Added checkpoint_03" />
     <MESSAGE value="Added checkpoint_11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added checkpoint_11" />
+    <MESSAGE value="Added listing 02 and 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added listing 02 and 03" />
   </component>
 </project>
