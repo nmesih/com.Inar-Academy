@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added listing 02 and 03">
-      <change afterPath="$PROJECT_DIR$/src/Chapters/chapter_07/Listing_01_AnalyzeNumbers.java" afterDir="false" />
-    </list>
+    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added listing 01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664785064956</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added listing 01">
+      <created>1665083991178</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665083991178</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +136,7 @@
     <MESSAGE value="Added checkpoint_03" />
     <MESSAGE value="Added checkpoint_11" />
     <MESSAGE value="Added listing 02 and 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added listing 02 and 03" />
+    <MESSAGE value="Added listing 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added listing 01" />
   </component>
 </project>
