@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added listing 01" />
+    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added listing 01">
+      <change afterPath="$PROJECT_DIR$/src/Chapters/chapter_07/Listing_04_CountLettersInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
