@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added listing 01">
-      <change afterPath="$PROJECT_DIR$/src/Chapters/chapter_07/Listing_04_CountLettersInArray.java" afterDir="false" />
+    <list default="true" id="9d7adebf-3f41-4746-b651-9b1768166ec3" name="Changes" comment="Added exercise 39">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -117,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665083991178</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added listing 04">
+      <created>1665119905185</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665119905185</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added exercise 39">
+      <created>1665120119619</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665120119619</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +154,8 @@
     <MESSAGE value="Added checkpoint_11" />
     <MESSAGE value="Added listing 02 and 03" />
     <MESSAGE value="Added listing 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added listing 01" />
+    <MESSAGE value="Added listing 04" />
+    <MESSAGE value="Added exercise 39" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exercise 39" />
   </component>
 </project>
