@@ -15,7 +15,7 @@ public class C07E17 {
         String[] students = new String[numberOfStudents];
         getScores(scores, students);
         sort(scores,students);
-        display(students);
+        display(students, scores);
     }
 
     public static void getScores(int[] scores, String[] students) {
@@ -45,10 +45,10 @@ public class C07E17 {
     }
 
 
-    private static void display(String[] students) {
+    private static void display(String[] students, int[] scores) {
         System.out.println("Students in decreasing order of scores: ");
         for (int i = 0; i < students.length; i++) {
-            System.out.println((i+1) + "-" + students[i]);
+            System.out.println((i+1) + "-" + students[i] + ": " + scores[i]);
         }
     }
 
