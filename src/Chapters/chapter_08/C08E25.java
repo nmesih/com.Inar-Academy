@@ -30,10 +30,20 @@ public class C08E25 {
         double a = columnSum(m)[0];
         double b = columnSum(m)[1];
         double c = columnSum(m)[2];
-        if (a == b && b == c){
+        if (a == 1 && b == 1 && c == 1 && checkPositive(m)){
             return true;
         }else
             return false;
+    }
+    public static boolean checkPositive(double[][] matrix){
+        for (int row = 0; row < matrix.length; row++) {
+            for (int column = 0; column < matrix[row].length; column++) {
+                if (matrix[row][column] < 0) {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 
     public static double[] columnSum(double[][] matrix) {
