@@ -1,4 +1,4 @@
-package Chapters.Chapter_09;
+package Chapters.chapter_09;
 
 public class Listing_03_TV {
     int channel = 1;
