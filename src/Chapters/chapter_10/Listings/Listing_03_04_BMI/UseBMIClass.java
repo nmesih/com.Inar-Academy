@@ -1,4 +1,4 @@
-package Chapters.chapter_10.Listings.Listing_02_BMI;
+package Chapters.chapter_10.Listings.Listing_03_04_BMI;
 
 public class UseBMIClass {
     public static void main(String[] args) {

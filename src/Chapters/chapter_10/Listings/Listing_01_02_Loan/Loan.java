@@ -1,4 +1,4 @@
-package Chapters.chapter_10.Listings.Listing_01_Loan;
+package Chapters.chapter_10.Listings.Listing_01_02_Loan;
 
 public class Loan {
     private double annualInterestRate;
