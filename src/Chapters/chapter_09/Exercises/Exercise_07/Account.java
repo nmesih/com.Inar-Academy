@@ -12,7 +12,7 @@ public class Account {
     public Account(){
 
     }
-    Account(int id, double balance, double annualInterestRate){
+    public Account(int id, double balance, double annualInterestRate){
         this.id = id;
         this.balance = balance;
         this.annualInterestRate = annualInterestRate;
