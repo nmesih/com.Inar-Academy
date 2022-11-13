@@ -8,7 +8,7 @@ public class TestCountryAndContinent {
 
         System.out.println(turkiye.toString());
         turkiye.countryBreadth();
-        turkiye.republic(3);
+        turkiye.formOfGovernment(3);
 
         System.out.println("------------");
         Continent europe = new Continent("Europe", 10530000, 750_000_000, "Temperate climate", 64);

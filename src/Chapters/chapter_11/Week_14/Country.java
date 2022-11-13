@@ -27,10 +27,10 @@ public class Country extends Continent {
         return foods;
     }
 
-    public void republic(int formOfGovernment) {
+    public void formOfGovernment(int government) {
         System.out.print(this.name);
 
-        switch (formOfGovernment) {
+        switch (government) {
 
             case 1:
                 System.out.println("'s form of government is a republic.");
