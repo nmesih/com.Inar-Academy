@@ -1,0 +1,13 @@
+git status-->status
+git add-->track file
+git commit-->to history kutucuğuna
+git log--> log
+git diff-->dosyadaki değişikliği göster -->working tree ve stage arası
+git add . --> "." means add all new and modified files to staging area.
+git diff --staged --> değişikliği göster staged ve history
+rm-- hem working tree den hem de stage den siler
+git checkout -- (file) --> staging areadan working tree ye
+git reset HEAD "(FILE)" --> History'den staging areaya undo yapar. Head o dosyanın en güncelini geri almak için.
+git checkout (hash ilk 5 karakter) -- "file"
+.gitignore--> the files no need of tracking
+vi .gitignore --> .gitignore dosysası editlenerek göz ardı edilmesi istenen dosyaların isimleri yazılır. --> status da .gitignore untracked görünür. Onu da commitlemek gerekiyor.
