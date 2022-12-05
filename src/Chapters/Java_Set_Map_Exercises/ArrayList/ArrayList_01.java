@@ -1,8 +1,8 @@
-package Chapters.Java_Set_Map_Exercises;
+package Chapters.Java_Set_Map_Exercises.ArrayList;
 
 import java.util.*;
 
-public class E01 {
+public class ArrayList_01 {
     public static void main(String[] args) {
         /**(Analyze scores) Write a program that reads an unspecified number of scores and
          determines how many scores are above or equal to the average and how many
